@@ -1,0 +1,36 @@
+body {
+    background-color: #141414;
+    color: white;
+    font-family: 'Oswald', sans-serif;     
+    font-size: 22px;
+}
+
+p {
+  text-align: left;
+}
+    
+
+    body::-webkit-scrollbar {
+        width: 10px;
+        }
+    body::-webkit-scrollbar-track {
+        background: gold;
+        }
+    body::-webkit-scrollbar-thumb {
+        background-color: #141414;
+        }
+    
+    
+h1 {
+  font-family: 'BatmanForeverAlternate', sans-serif;
+  color: gold;
+  text-shadow: -2px -2px black, 2px 2px black, 2px -2px black, -2px 2px black;
+  text-align: center;
+}
+a {
+  color: white;
+}
+
+a:hover {
+  color: gold;
+}
